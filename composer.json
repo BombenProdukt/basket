@@ -20,7 +20,7 @@
         "ext-intl": "*",
         "moneyphp/money": "^4.1",
         "bombenprodukt/laravel-package-powerpack": "^1.0",
-        "symfony/serializer": "^6.2",
+        "symfony/serializer": "^7.0",
         "symfony/yaml": "^6.2"
     },
     "require-dev": {
